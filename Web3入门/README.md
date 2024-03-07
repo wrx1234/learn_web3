@@ -3,8 +3,8 @@
 
 ## 目录
 
-- [BTC白皮书📌](./BTC%20白皮书/README.md/)
-- ETH白皮书
+- [BTC白皮书 ✅ ](./BTC%20白皮书/README.md/)
+- [ETH白皮书📌](./ETH白皮书/README.md)
 - 钱包操作（测试水龙头，CEX体验）
 - Etherscan体验
 - ERC20&ERC721阅读
